@@ -1,6 +1,5 @@
 <h1>Gustavo Abreu - Status</h1>
 
-<br>
 <div align="center">
  <h4>I am a dedicated Information Technology student pursuing the advanced Information Systems Programming course. My educational pursuit is underpinned by an unwavering enthusiasm for software development. This fervor propels me to consistently elevate my skill set and enrich my knowledge within the realm of programming and technology.</h4>
  <br>
