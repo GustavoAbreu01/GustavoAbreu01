@@ -9,6 +9,7 @@
  <p>Contact</p>
   <a href="https://www.instagram.com/gustavo_g_abreu/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
   <a href = "gustavoabreu012004@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href = "https://discord.com/channels/@me"><img src="https://img.shields.io/badge/Discord-5865F2.svg?style=for-the-badge&logo=Discord&logoColor=white" target="_blank"></a>
  <br>
  <br>
  <p>Languages</p>
