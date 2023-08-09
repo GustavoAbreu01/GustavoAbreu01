@@ -33,5 +33,5 @@
   <img src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white">
  </p>
 
-![Snake animation](https://github.com/{{GustavoAbreu01}}/{{GustavoAbreu01}}/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/GustavoAbreu01/GustavoAbreu01/blob/output/github-contribution-grid-snake.gif)
 
