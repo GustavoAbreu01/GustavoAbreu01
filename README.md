@@ -2,7 +2,7 @@
 
 
 <div>
- <img style="margin-right: 5px;" height="140em" src="https://github-readme-stats.vercel.app/api/wakatime?username=GustavoAbreu01&theme=tokyonight"/>
+ <img style="margin-right: 5px;" height="100em" src="https://github-readme-stats.vercel.app/api/wakatime?username=GustavoAbreu01&theme=tokyonight"/>
  <img style="margin-right: 5px;" height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoAbreu01&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
   <br>
@@ -33,5 +33,9 @@
   <img src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white">
  </p>
 
-  ![Snake animation](https://github.com/USERNAME/USERNAME/blob/output/github-contribution-grid-snake.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
 
