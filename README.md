@@ -2,6 +2,7 @@
 
 <br>
 <div align="center">
+ <p>I am a dedicated Information Technology student pursuing the advanced Information Systems Programming course. My educational pursuit is underpinned by an unwavering enthusiasm for software development. This fervor propels me to consistently elevate my skill set and enrich my knowledge within the realm of programming and technology.</p>
  <img style="margin-right: 5px;" height="150em" src="https://github-readme-stats.vercel.app/api/wakatime?username=GustavoAbreu01&theme=tokyonight"/>
  <img style="margin-right: 5px;" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoAbreu01&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
