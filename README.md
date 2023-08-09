@@ -4,7 +4,7 @@
 <div>
 <a href="https://github.com/GustavoAbreu01">
  <img style="margin-right: 5px;" height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoAbreu01&layout=compact&langs_count=7&theme=tokyonight"/>
- <img height="150em" src="https://github-readme-stats.vercel.app/api?username=GustavoAbreu01&show_icons=true&theme=tokyonight&include_all_commits=true"/>
+<img align="right" src="https://github-stats-git-custom-panosru.vercel.app/api/top-langs/?username=panosru&langs_count=20&layout=compact&count_private=true&hide_border=true&locale=en&exclude_repo=github-readme-stats,panosru, cockpit_GROUPS,jamesgeorge007,hedythedev,katerina-web,.net-rnd-i18n,php-censor,framework,BetterReflection,docker-php-censor,protos,node-jinjs,protos-docs,OxyNode" alt="Top Langs" />
 </div>
   <br>
  <p>Contact</p>
