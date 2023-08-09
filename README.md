@@ -2,7 +2,6 @@
 
 
 <div>
-<a href="https://github.com/GustavoAbreu01"> 
  <img style="margin-right: 5px;" height="140em" src="https://github-readme-stats.vercel.app/api/wakatime?username=GustavoAbreu01"/>
  <img style="margin-right: 5px;" height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoAbreu01&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
