@@ -5,6 +5,7 @@
 <a href="https://github.com/GustavoAbreu01">
  <img style="margin-right: 5px;" height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoAbreu01&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
+ <p>I am a dedicated Information Technology student pursuing the advanced Information Systems Programming course. My educational pursuit is underpinned by an unwavering enthusiasm for software development. This fervor propels me to consistently elevate my skill set and enrich my knowledge within the realm of programming and technology.</p>
   <br>
  <p>Contact</p>
   <a href="https://www.instagram.com/gustavo_g_abreu/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
