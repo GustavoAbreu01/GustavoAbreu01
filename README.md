@@ -9,6 +9,7 @@
  <img style="margin-right: 10px;"  height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoAbreu01&layout=compact&langs_count=7&theme=radical"/>
      <img height="140em" src="https://raw.githubusercontent.com/gist/theAdityaNVS/f5b585d1082da2dffffea32434f37956/raw/7f9552d0a179b4f84059259fa878199e369b069c/GitHub-logo.gif" alt="Flareon">
 </div>
+<br>
 <div align="center">
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=GustavoAbreu01&repo=RogueFront-1&theme=radical" />
@@ -17,6 +18,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=GustavoAbreu01&repo=GustavoAbreu01&theme=radical" />
 </a>
 </div>
+<br>
 <br>
   <br>
  <h1>Contact</h1>
