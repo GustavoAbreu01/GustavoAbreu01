@@ -5,6 +5,7 @@
  <br>
  <img style="margin-right: 5px;" height="180em" src="https://github-readme-stats.vercel.app/api?username=GustavoAbreu01&show_icons=true&theme=radical"/>
  <img style="margin-right: 5px;" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoAbreu01&layout=compact&langs_count=7&theme=radical"/>
+ <img style="margin-right: 5px;" height="180em" src="https://github.com/anuraghazra/github-readme-stats&theme=radical"/>
 </div>
   <br>
  <h1>Contact</h1>
