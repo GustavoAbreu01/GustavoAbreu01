@@ -11,10 +11,10 @@
 </div>
 <br>
 <div align="center">
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/GustavoAbreu01/GustavoAbreu01">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=GustavoAbreu01&repo=RogueFront-1&theme=radical" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
+<a href="https://github.com/GustavoAbreu01/RogueFront-1">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=GustavoAbreu01&repo=GustavoAbreu01&theme=radical" />
 </a>
 </div>
