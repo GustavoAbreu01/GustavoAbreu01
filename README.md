@@ -22,6 +22,9 @@
 <br>
   <br>
   <img height="60em" src="https://media.tenor.com/7fw1qgKb4MkAAAAj/netherite-pickaxe-minecraft.gif" alt="Flareon">
+  <div align="center">
+      <img height="60em" src="https://i.stack.imgur.com/BJVDTb.png" alt="Flareon">
+  </div>
  <h1>Contact</h1>
  <p>
   <a href="https://www.instagram.com/gustavo_g_abreu/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
