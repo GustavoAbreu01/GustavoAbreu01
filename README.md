@@ -11,6 +11,7 @@
 </div>
 <br>
 <div align="center">
+    <img src="https://media.tenor.com/7fw1qgKb4MkAAAAj/netherite-pickaxe-minecraft.gif" alt="Flareon">
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=GustavoAbreu01&repo=RogueFront-1&theme=radical" />
 </a>
