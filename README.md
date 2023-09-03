@@ -4,7 +4,7 @@
  <h4>I am a dedicated Information Technology student pursuing the advanced Information Systems Programming course. My educational pursuit is underpinned by an unwavering enthusiasm for software development. This fervor propels me to consistently elevate my skill set and enrich my knowledge within the realm of programming and technology.</h4>
  <br>
  <img style="margin-right: 5px;" height="180em" src="https://github-readme-stats.vercel.app/api?username=GustavoAbreu01&show_icons=true&theme=radical"/>
- <img style="margin-right: 5px;" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoAbreu01&layout=compact&langs_count=7&theme=tokyonight"/>
+ <img style="margin-right: 5px;" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoAbreu01&layout=compact&langs_count=7&theme=radical"/>
 </div>
   <br>
  <h1>Contact</h1>
