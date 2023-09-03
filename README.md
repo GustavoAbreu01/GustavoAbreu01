@@ -7,6 +7,7 @@
  <img style="margin-right: 5px;" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoAbreu01&layout=compact&langs_count=7&theme=radical"/>
 </div>
 <a href="https://pokemondb.net/pokedex/eevee"><img src="https://img.pokemondb.net/sprites/black-white/anim/shiny/eevee.gif" alt="Eevee"></a>
+<a href="https://pokemondb.net/pokedex/eevee"><img src="https://img.pokemondb.net/sprites/black-white/anim/normal/eevee.gif" alt="Eevee"></a>
   <br>
  <h1>Contact</h1>
  <p>
