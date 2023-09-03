@@ -8,8 +8,9 @@
 </div>
 <br>
 <div align="center">
-  <a href="https://pokemondb.net/pokedex/pikachu"><img style="margin-right: 100px;" height="180em" src="https://img.pokemondb.net/sprites/black-white/anim/back-normal/pikachu.gif" alt="Pikachu"></a>
-  <a href="https://pokemondb.net/pokedex/eevee"><img  height="120em" src="https://img.pokemondb.net/sprites/black-white/anim/normal/eevee.gif" alt="Eevee"></a>
+ <a href="https://pokemondb.net/pokedex/vaporeon"><img src="https://img.pokemondb.net/sprites/black-white/anim/normal/vaporeon.gif" alt="Vaporeon"></a>
+ <a href="https://pokemondb.net/pokedex/jolteon"><img src="https://img.pokemondb.net/sprites/black-white/anim/normal/jolteon.gif" alt="Jolteon"></a>
+ <a href="https://pokemondb.net/pokedex/flareon"><img src="https://img.pokemondb.net/sprites/black-white/anim/normal/flareon.gif" alt="Flareon"></a>
  </div>
   <br>
  <h1>Contact</h1>
