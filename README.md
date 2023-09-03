@@ -23,8 +23,7 @@
   <br>
   <img height="60em" src="https://media.tenor.com/7fw1qgKb4MkAAAAj/netherite-pickaxe-minecraft.gif" alt="Flareon">
   <div align="center">
-      <img style="margin-right: -10px;" height="60em" src="https://i.stack.imgur.com/BJVDTb.png" alt="Flareon">
-      <img height="60em" src="https://static.planetminecraft.com/files/resource_media/screenshot/1307/2013-02-14_114038_4837850_lrg.jpg" alt="Flareon">
+      <img height="1000em" src="https://static.planetminecraft.com/files/resource_media/screenshot/1307/2013-02-14_114038_4837850_lrg.jpg" alt="Flareon">
   </div>
  <h1>Contact</h1>
  <p>
