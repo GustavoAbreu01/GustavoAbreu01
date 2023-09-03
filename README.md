@@ -8,8 +8,8 @@
 </div>
 <br>
 <div align="center">
-  <a style="margin-top: 100px;" href="https://pokemondb.net/pokedex/pikachu"><img height="180em" src="https://img.pokemondb.net/sprites/black-white/anim/back-normal/pikachu.gif" alt="Pikachu"></a>
-  <a href="https://pokemondb.net/pokedex/eevee"><img height="180em" src="https://img.pokemondb.net/sprites/black-white/anim/normal/eevee.gif" alt="Eevee"></a>
+  <a href="https://pokemondb.net/pokedex/pikachu"><img height="180em" src="https://img.pokemondb.net/sprites/black-white/anim/back-normal/pikachu.gif" alt="Pikachu"></a>
+  <a href="https://pokemondb.net/pokedex/eevee"><img height="160em" src="https://img.pokemondb.net/sprites/black-white/anim/normal/eevee.gif" alt="Eevee"></a>
  </div>
   <br>
  <h1>Contact</h1>
