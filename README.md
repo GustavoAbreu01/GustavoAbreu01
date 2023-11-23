@@ -15,7 +15,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=GustavoAbreu01&repo=RogueFront-1&theme=radical" />
 </a>
 <a href="https://github.com/GustavoAbreu01/RogueFront-1">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=GustavoAbreu01&repo=GustavoAbreu01&theme=radical" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=GustavoAbreu01&repo=Termo-74&theme=radical" />
 </a>
 </div>
 <br>
